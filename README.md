@@ -8,9 +8,10 @@ Description
 
 *How to Use:*
 = 
-  1. Download the workflow => flux kontext_multiple img
+  1. Download the workflow => 
   2. Upload the first and second images
   3. Write a prompt about what happens between images :
+     
      ```The character from the second image Sitting on the chair in the first image.```
    
 3.Download models:
