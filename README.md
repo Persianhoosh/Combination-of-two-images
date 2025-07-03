@@ -16,6 +16,9 @@ Description
   3. Write a prompt about what happens between images :
      
      ```The character from the second image Sitting on the chair in the first image.```
+
+![Workflow Diagram](https://github.com/Persianhoosh/i-.icons/raw/main/workflow1.png)
+
    
 3.Download models:
    ===============================   
